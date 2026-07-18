@@ -1,0 +1,10 @@
+python-telegram-bot==21.4
+google-generativeai
+requests
+# sqlite3 is built-in (no pip install needed)
+yt-dlp
+pandas  # for trading maybe
+numpy
+python-dotenv
+aiohttp
+# asyncio is built-in
