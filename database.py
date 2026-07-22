@@ -39,7 +39,7 @@ class Database:
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             user_id INTEGER,
             symbol TEXT,
-            position_type TEXT,  # long/short
+            position_type TEXT,
             entry_price REAL,
             current_price REAL,
             status TEXT,
